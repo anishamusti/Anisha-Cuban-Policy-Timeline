@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col gap-y-4 p-24">
       <h1><b>Colonial Period and Early Independence (1492-1959)</b></h1>
       <p>- 1492: Christopher Columbus arrives in Cuba, claiming the island for Spain.<br></br>- 1511: Spanish colonization begins, leading to centuries of Spanish rule.<br></br>
-- 1868-1878: Ten Years' War, the first major attempt for independence from Spain.
+- 1868-1878: Ten Years&apos; War, the first major attempt for independence from Spain.
 <br></br>- 1895-1898: Cuban War of Independence, leading to the end of Spanish rule.
 <br></br>- 1898: Spanish-American War; Cuba becomes a U.S. protectorate.
 <br></br>- 1902: Establishment of the Republic of Cuba; the U.S. retains significant influence.
@@ -13,7 +13,7 @@ export default function Home() {
 
 <h1><b>Pre-Revolutionary Period (1902-1959)</b></h1>
       <p>- 1902-1933: Several presidencies marked by political instability and U.S. intervention.
-<br></br>- 1933: Sergeants' Revolt leads to the overthrow of President Gerardo Machado.
+<br></br>- 1933: Sergeants&apos; Revolt leads to the overthrow of President Gerardo Machado.
 <br></br>- 1940: A new constitution is adopted under President Fulgencio Batista, introducing progressive reforms.
 <br></br>- 1952: Batista leads a coup, becoming a dictator and suspending the 1940 constitution.
 <br></br></p>
@@ -21,7 +21,7 @@ export default function Home() {
 <h1><b>Revolutionary Period (1953-1959)</b></h1>
       <p>- 1953: Fidel Castro leads the failed attack on Moncada Barracks, marking the start of the Cuban Revolution.
 <br></br>- 1956: Castro and his followers land in Cuba on the Granma and start the guerrilla war.<br></br>
-- 1959: Batista flees Cuba; Fidel Castro’s forces take control, marking the revolution's victory.
+- 1959: Batista flees Cuba; Fidel Castro&apos;s forces take control, marking the revolution&apos;s victory.
 <br></br></p>
 
 <h1><b>Post-Revolutionary Period (1959-Present)</b></h1>
